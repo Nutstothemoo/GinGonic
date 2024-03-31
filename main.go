@@ -4,7 +4,6 @@ import (
 	"ginapi/middleware"
 	"log"
 	"time"
-
 	"github.com/gin-gonic/gin"
 	_ "github.com/lib/pq"
 )
